@@ -1,3 +1,4 @@
 # gitskills
 test clone
 Creating a new branch is quick & simple.
+test merge --no-ff
